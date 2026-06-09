@@ -56,15 +56,15 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 ### Cloud & Container Orchestration
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux" />
 <br><br>
-<img src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" title="Amazon EC2" />
-<img src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="Amazon EKS" />
-<img src="https://img.shields.io/badge/-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" title="Argo CD" />
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 
 ### CI/CD, Security & Observability
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,grafana,prometheus" />
 <br><br>
-<img src="https://img.shields.io/badge/-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" title="SonarQube" />
-<img src="https://img.shields.io/badge/-1B1B1B?style=for-the-badge&logo=aquasecurity&logoColor=20B0BD" title="Trivy" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1B1B1B?style=for-the-badge&logo=aquasecurity&logoColor=20B0BD" />
 
 ### Frameworks & Databases
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,mysql,mongodb,redis" />

@@ -1,96 +1,192 @@
+
 <div align="center">
 
 # Atharva Ramawat | Automating Infrastructure & Building AI
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Cloud & AI" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="120" />
 
-**Computer Science (Data Science) @ RCOEM | Cloud & DevOps Enthusiast | AI Builder**
+### Computer Science (Data Science) @ RCOEM • Cloud & DevOps Enthusiast • AI Builder
 
-Turning complex architectural requirements into scalable, automated realities.
+*Turning complex architectural requirements into scalable, automated realities.*
 
-[![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql)
-[![AWS](https://img.shields.io/badge/AWS-Certified--Ready-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+<br>
+
+![](https://komarev.com/ghpvc/?username=Atharva-Ramawat&style=for-the-badge)
+
+<br>
+
+[![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql/pull/933)
 
 </div>
 
 ---
 
-### About Me
+# 🌟 Open Source Spotlight
 
-Hi, I'm **Atharva Ramawat**, a 3rd-year B.Tech Computer Science (Data Science) student at Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur. I am deeply passionate about building resilient infrastructure, optimizing workflows, and integrating AI into practical tools.
+### Red Hat Ansible Contribution
 
-I enjoy hands-on, project-based learning and thrive when bridging the gap between development and operations. 
+Recently contributed documentation improvements to the Ansible ecosystem through the **community.postgresql** collection.
 
-**Currently focused on:**
-* **Cloud & DevOps:** Architecting CI/CD pipelines, GitOps, and Infrastructure as Code (AWS, Docker, Kubernetes, Terraform).
-* **Open Source:** Actively contributing to enterprise-grade tools (recently merged docs into Red Hat's Ansible `community.postgresql`).
-* **Artificial Intelligence:** Developing RAG agents and specialized NLP engines.
-* **Problem Solving:** Honing technical logic through Data Structures & Algorithms (DSA) in Java and Python.
+🔗 Pull Request: https://github.com/ansible-collections/community.postgresql/pull/933
+
+This contribution reflects my interest in enterprise automation, infrastructure management, and open-source collaboration.
 
 ---
 
-### Tech Stack
+# 📖 About Me
 
-**Languages**
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,js" />
-</a>
+Hi, I'm **Atharva Ramawat**, a third-year B.Tech Computer Science (Data Science) student at **Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur**.
 
-**Cloud, DevOps & Containers**
-<br>
-<a href="https://skillicons.dev">
+I enjoy building cloud-native systems, automating infrastructure, and integrating AI into practical engineering solutions.
+
+My approach to learning is simple:
+
+> Build real systems. Break them. Improve them. Scale them.
+
+### Current Focus
+
+- Cloud Infrastructure & DevOps
+- GitOps & Infrastructure as Code
+- Open Source Contributions
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Data Structures & Algorithms
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### Cloud, DevOps & Containers
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible" />
-</a>
+</p>
 
-**Databases**
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</a>
+### Databases
 
-**Tools and Platforms**
-<br>
-<a href="https://skillicons.dev">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</a>
+</p>
 
 ---
 
-### Featured Projects
+# 🚀 Featured Engineering Projects
 
-#### 🤖 TaxPilot (AI-Powered RAG Assistant)
+## 🤖 TaxPilot — AI-Powered RAG Assistant
+
 An intelligent assistant designed to navigate complex tax regulations using Retrieval-Augmented Generation.
-* Built dynamic vector-search capabilities for high-accuracy context retrieval.
-* Leveraged transformer models to generate natural language responses to user tax queries.
 
-#### ⚙️ NLP-to-SQL Engine
-A deterministic, rule-based NLP engine that translates natural language into structured SQL queries.
-* Collaborated with a team (including Ayush Mishra!) to design custom state-machine logic.
-* Utilized NLP techniques for POS tagging and lemmatization to ensure precise query translation.
+### Highlights
 
-#### 🚀 Microservices CI/CD Deployment
-A complete containerized two-tier web application featuring a robust quality gate.
-* Dockerized a Flask backend and MySQL database.
-* Automated integration and smoke testing using Jenkins and Argo CD for a true GitOps workflow.
+- Optimized vector-search retrieval pipelines
+- Context-aware document understanding
+- Transformer-powered response generation
+- Natural language tax assistance
 
 ---
 
-### 📊 GitHub Analytics
+## ⚙️ NLP-to-SQL Conversion Engine
+
+A deterministic NLP system that converts user language into executable SQL queries.
+
+### Highlights
+
+- State-machine driven parsing architecture
+- POS tagging and lemmatization pipelines
+- Query ambiguity reduction
+- Structured SQL generation workflows
+
+---
+
+## 🚀 Automated GitOps Microservices Pipeline
+
+A production-style deployment architecture built around CI/CD and GitOps principles.
+
+### Highlights
+
+- Dockerized Flask and MySQL services
+- Jenkins-driven CI workflows
+- Argo CD continuous deployment
+- Automated quality gates and testing
+- Infrastructure consistency through GitOps
+
+---
+
+# 🧠 Current Learning Matrix
+
+### Advanced Systems
+
+- Distributed Systems Architecture
+- High Availability Design
+- Cloud-Native Infrastructure
+- Multi-Region Deployments
+
+### Intelligent Systems
+
+- Agentic AI Workflows
+- Context Engineering
+- Prompt Routing
+- Multi-Agent Architectures
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="400" alt="Atharva's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Ramawat&theme=dark&hide_border=true&background=0D1117" width="400" alt="Atharva's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Ramawat&theme=react-dark&bg_color=0D1117&hide_border=true" width="820" alt="Atharva's Contribution Graph" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Atharva-Ramawat&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Ramawat&theme=react-dark&hide_border=true" />
+
 </div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Atharva-Ramawat&theme=algolia&row=1&column=7" />
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atharva-ramawat">
+  <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Ramawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:atharvaramawat027@gmail.com">
+  <img src="https://img.shields.io/badge/Email-atharvaramawat027%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable infrastructure, intelligent systems, and automated delivery pipelines.
+
+</div>
+```

@@ -119,6 +119,9 @@ An intelligent IDE extension published directly to the marketplace that refactor
 
 # CONNECT WITH ME
 
+<a href="https://github.com/Atharva-Ramawat">
+  <img src="https://img.shields.io/badge/GitHub-Atharva%20Ramawat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/atharva-ramawat">
   <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Ramawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

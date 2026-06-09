@@ -8,6 +8,9 @@
 
 Turning complex architectural requirements into scalable, automated realities.
 
+[![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql)
+[![AWS](https://img.shields.io/badge/AWS-Certified--Ready-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+
 </div>
 
 ---
@@ -31,25 +34,25 @@ I enjoy hands-on, project-based learning and thrive when bridging the gap betwee
 **Languages**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,js,bash" />
+  <img src="https://skillicons.dev/icons?i=py,java,js" />
 </a>
 
 **Cloud, DevOps & Containers**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible" />
 </a>
 
 **Databases**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </a>
 
 **Tools and Platforms**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </a>
 
 ---
@@ -78,6 +81,21 @@ An intelligent IDE extension that parses and refactors Python code using static 
 
 ---
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Atharva's GitHub Stats" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" width="400" alt="Atharva's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Ramawat&theme=dark&hide_border=true&background=0D1117" width="400" alt="Atharva's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Ramawat&theme=react-dark&bg_color=0D1117&hide_border=true" width="820" alt="Atharva's Contribution Graph" />
 </div>

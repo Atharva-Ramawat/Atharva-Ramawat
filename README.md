@@ -1,36 +1,83 @@
-# Hi there, I'm Atharva 👋
-
-I'm a 3rd-year Computer Science (Data Science) undergraduate at RKNEC, specializing in building robust DevOps pipelines, Cloud infrastructure, and AI/NLP applications. I love taking complex systems and automating them from the ground up.
-
-### 🚀 What I'm Up To
-* **Contributing to Open Source:** Recently contributed documentation improvements to the official **Red Hat / Ansible** `community.postgresql` collection.
-* **Building AI Agents:** Developed **TaxPilot** (an AI-powered RAG assistant) and an **NLP-to-SQL Engine** utilizing custom state-machine logic.
-* **Architecting Infrastructure:** Designing containerized microservices and deploying them using GitOps methodologies on AWS.
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-**Data & AI:**
-![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
+
+# Atharva Ramawat | Automating Infrastructure & Building AI
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Cloud & AI" width="120" height="120" />
+
+**Computer Science (Data Science) @ RCOEM | Cloud & DevOps Enthusiast | AI Builder**
+
+Turning complex architectural requirements into scalable, automated realities.
+
 </div>
 
-### 📫 Let's Connect
-* Reach out if you want to talk about CI/CD pipelines, vector databases, or competitive programming!
+---
+
+### About Me
+
+Hi, I'm **Atharva Ramawat**, a 3rd-year B.Tech Computer Science (Data Science) student at Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur. I am deeply passionate about building resilient infrastructure, optimizing workflows, and integrating AI into practical tools.
+
+I enjoy hands-on, project-based learning and thrive when bridging the gap between development and operations. 
+
+**Currently focused on:**
+* **Cloud & DevOps:** Architecting CI/CD pipelines, GitOps, and Infrastructure as Code (AWS, Docker, Kubernetes, Terraform).
+* **Open Source:** Actively contributing to enterprise-grade tools (recently merged docs into Red Hat's Ansible `community.postgresql`).
+* **Artificial Intelligence:** Developing RAG agents and specialized NLP engines.
+* **Problem Solving:** Honing technical logic through Data Structures & Algorithms (DSA) in Java and Python.
+
+---
+
+### Tech Stack
+
+**Languages**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,js,bash" />
+</a>
+
+**Cloud, DevOps & Containers**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins" />
+</a>
+
+**Databases**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</a>
+
+**Tools and Platforms**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</a>
+
+---
+
+### Featured Projects
+
+#### 🤖 TaxPilot (AI-Powered RAG Assistant)
+An intelligent assistant designed to navigate complex tax regulations using Retrieval-Augmented Generation.
+* Built dynamic vector-search capabilities for high-accuracy context retrieval.
+* Leveraged transformer models to generate natural language responses to user tax queries.
+
+#### ⚙️ NLP-to-SQL Engine
+A deterministic, rule-based NLP engine that translates natural language into structured SQL queries.
+* Collaborated with a team (including Ayush Mishra!) to design custom state-machine logic.
+* Utilized NLP techniques for POS tagging and lemmatization to ensure precise query translation.
+
+#### 🚀 Microservices CI/CD Deployment
+A complete containerized two-tier web application featuring a robust quality gate.
+* Dockerized a Flask backend and MySQL database.
+* Automated integration and smoke testing using Jenkins and Argo CD for a true GitOps workflow.
+
+#### 🔧 Python Code Optimizer (VS Code Extension)
+An intelligent IDE extension that parses and refactors Python code using static analysis.
+* Published directly to the VS Code marketplace.
+* Integrated seamless user configurations for customized optimization passes.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Atharva's GitHub Stats" />
+</div>

@@ -74,11 +74,6 @@ A complete containerized two-tier web application featuring a robust quality gat
 * Dockerized a Flask backend and MySQL database.
 * Automated integration and smoke testing using Jenkins and Argo CD for a true GitOps workflow.
 
-#### 🔧 Python Code Optimizer (VS Code Extension)
-An intelligent IDE extension that parses and refactors Python code using static analysis.
-* Published directly to the VS Code marketplace.
-* Integrated seamless user configurations for customized optimization passes.
-
 ---
 
 ### 📊 GitHub Analytics
@@ -87,7 +82,7 @@ An intelligent IDE extension that parses and refactors Python code using static 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" width="400" alt="Atharva's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="400" alt="Atharva's GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Ramawat&theme=dark&hide_border=true&background=0D1117" width="400" alt="Atharva's GitHub Streak" />

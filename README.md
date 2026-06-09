@@ -10,42 +10,45 @@
 
 [![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql/pull/933)
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Atharva-Ramawat&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
-# 🌟 Open Source Spotlight
+# OPEN SOURCE SPOTLIGHT
 
 ### Red Hat Ansible Contribution
 
 Recently contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
 
-🔗 **Pull Request:** [View on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
+> **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
 
-This contribution reflects my active focus on enterprise automation, configuration management, and open-source infrastructure tools.
+This contribution reflects an active focus on enterprise automation, configuration management, and open-source infrastructure tools.
 
 ---
 
-# 📖 About Me
+# ABOUT ME
 
-Hi, I'm **Atharva Ramawat**, a third-year B.Tech Computer Science student at **Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur**.
+Hi, I'm **Atharva Ramawat**, a third-year B.Tech Computer Science student at Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur.
 
-I specialize in building cloud-native systems, automating deployment pipelines, and managing highly available infrastructure. My approach to engineering is simple:
+I specialize in building cloud-native systems, automating deployment pipelines, and managing highly available infrastructure. My approach to engineering is straightforward:
 
-> Build resilient systems. Automate the deployments. Scale the infrastructure.
+> **Build resilient systems. Automate the deployments. Scale the infrastructure.**
 
-### Current Focus
-
-- Cloud Infrastructure Architectures (AWS)
-- Continuous Integration & Deployment (CI/CD)
-- Container Orchestration (Docker, Kubernetes)
-- GitOps & Infrastructure as Code (Terraform, ArgoCD)
+### Current Technical Focus
+* **Cloud Infrastructure Architectures:** AWS
+* **Continuous Integration & Deployment:** CI/CD pipelines
+* **Container Orchestration:** Docker, Kubernetes
+* **GitOps & Infrastructure as Code:** Terraform, ArgoCD
 
 ---
 
 <div align="center">
   
-# 🛠️ Tech Stack
+# TECH STACK
 
 ### Languages & Scripting
 <img src="https://skillicons.dev/icons?i=java,python,javascript,bash,cpp" />
@@ -63,45 +66,45 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 
 ---
 
-# 🚀 Featured Engineering Projects
+# FEATURED ENGINEERING PROJECTS
 
-## ☁️ Enterprise Document Intelligence Pipeline
+### Enterprise Document Intelligence Pipeline
 An event-driven document intelligence system built for high-performance scale and asynchronous processing.
-- **Architecture:** High-throughput FastAPI gateway routing to a Redis/Celery task queue.
-- **Infrastructure:** Fully containerized microservices architecture utilizing PostgreSQL storage.
+* **Architecture:** High-throughput FastAPI gateway routing to a Redis/Celery task queue.
+* **Infrastructure:** Fully containerized microservices architecture utilizing PostgreSQL storage.
 
-## ⚙️ Kubernetes GitOps & Microservices Deployment
+### Kubernetes GitOps & Microservices Deployment
 A scalable, microservices-based AI Sentiment Analysis application featuring a complete end-to-end GitOps deployment cycle.
-- **Pipeline:** Automated CI/CD workflows orchestrated via Jenkins and ArgoCD.
-- **Deployment:** Containerized via Docker and deployed to a Kubernetes cluster hosted on AWS EC2 instances.
+* **Pipeline:** Automated CI/CD workflows orchestrated via Jenkins and ArgoCD.
+* **Deployment:** Containerized via Docker and deployed to a Kubernetes cluster hosted on AWS EC2 instances.
 
-## 🛡️ Automated CI/CD Quality Gate
+### Automated CI/CD Quality Gate
 A containerized Two-Tier Web Application (Flask + MySQL) demonstrating integration best practices and release safety.
-- **Automation:** Engineered a GitHub Actions CI pipeline to perform rigorous automated integration and smoke testing.
-- **Delivery:** Enforced deployment quality gates to ensure code reliability before production merges.
+* **Automation:** Engineered a GitHub Actions CI pipeline to perform rigorous automated integration and smoke testing.
+* **Delivery:** Enforced deployment quality gates to ensure code reliability before production merges.
 
-## 🔧 Python Code Optimizer (VS Code Extension)
+### Python Code Optimizer (VS Code Extension)
 An intelligent IDE extension published directly to the marketplace that refactors and optimizes Python code using a cloud-hosted AI Model.
-- **Impact:** **🎉 91+ Downloads** on the Visual Studio Code Marketplace.
-- **Tech:** Built with JavaScript, utilizing static code analysis and seamless IDE user configuration integration.
+* **Impact:** Over 91+ Downloads on the Visual Studio Code Marketplace.
+* **Tech:** Built with JavaScript, utilizing static code analysis and seamless IDE user configuration integration.
 
 ---
 
-# 🧠 Current Learning Matrix
+# CURRENT LEARNING MATRIX
 
 ### Advanced Systems
-- Distributed Systems Architecture
-- High Availability & Fault Tolerance Design
-- Multi-Region Cloud Deployments
-- Advanced Kubernetes Networking
+* Distributed Systems Architecture
+* High Availability & Fault Tolerance Design
+* Multi-Region Cloud Deployments
+* Advanced Kubernetes Networking
 
 ---
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# GITHUB ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva-Ramawat&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://streak-stats.demolab.com?user=Atharva-Ramawat&theme=tokyonight&hide_border=true" />
 
 <br><br>
@@ -114,7 +117,7 @@ An intelligent IDE extension published directly to the marketplace that refactor
 
 <div align="center">
 
-# 📫 Connect With Me
+# CONNECT WITH ME
 
 <a href="https://www.linkedin.com/in/atharva-ramawat">
   <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Ramawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -125,6 +128,6 @@ An intelligent IDE extension published directly to the marketplace that refactor
 
 <br><br>
 
-### Building reliable infrastructure, high-availability clusters, and automated delivery pipelines.
+**Building reliable infrastructure, high-availability clusters, and automated delivery pipelines.**
 
 </div>

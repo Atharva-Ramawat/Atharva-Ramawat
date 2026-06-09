@@ -39,8 +39,8 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 > **Build resilient systems. Automate the deployments. Scale the infrastructure.**
 
 ### Current Technical Focus
-* **Cloud Infrastructure Architectures:** AWS
-* **Continuous Integration & Deployment:** CI/CD pipelines
+* **Cloud Infrastructure Architectures:** AWS (EC2, EKS)
+* **Continuous Integration & Deployment:** CI/CD pipelines, DevSecOps
 * **Container Orchestration:** Docker, Kubernetes
 * **GitOps & Infrastructure as Code:** Terraform, ArgoCD
 
@@ -53,14 +53,24 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 ### Languages & Scripting
 <img src="https://skillicons.dev/icons?i=java,python,javascript,bash,cpp" />
 
-### Cloud, DevOps & Containers
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,nginx" />
+### Cloud & Container Orchestration
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux" />
+<br><br>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+
+### CI/CD, Security & Observability
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,grafana,prometheus" />
+<br><br>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1B1B1B?style=for-the-badge&logo=aquasecurity&logoColor=20B0BD" />
 
 ### Frameworks & Databases
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,mysql,mongodb,redis" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,nginx" />
 
 </div>
 
@@ -80,8 +90,8 @@ A scalable, microservices-based AI Sentiment Analysis application featuring a co
 
 ### Automated CI/CD Quality Gate
 A containerized Two-Tier Web Application (Flask + MySQL) demonstrating integration best practices and release safety.
-* **Automation:** Engineered a GitHub Actions CI pipeline to perform rigorous automated integration and smoke testing.
-* **Delivery:** Enforced deployment quality gates to ensure code reliability before production merges.
+* **Automation:** Engineered a GitHub Actions CI pipeline with integrated Trivy vulnerability scanning and SonarQube code analysis.
+* **Delivery:** Enforced deployment quality gates to ensure secure code reliability before production merges.
 
 ### Python Code Optimizer (VS Code Extension)
 An intelligent IDE extension published directly to the marketplace that refactors and optimizes Python code using a cloud-hosted AI Model.
@@ -131,6 +141,6 @@ An intelligent IDE extension published directly to the marketplace that refactor
 
 <br><br>
 
-**Building reliable infrastructure, high-availability clusters, and automated delivery pipelines.**
+**Building reliable infrastructure, secure clusters, and automated delivery pipelines.**
 
 </div>

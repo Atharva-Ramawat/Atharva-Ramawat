@@ -18,7 +18,7 @@
 
 ---
 
-# OPEN SOURCE SPOTLIGHT
+# OPEN SOURCE CONTRIBUTION:
 
 ### Red Hat Ansible Contribution
 

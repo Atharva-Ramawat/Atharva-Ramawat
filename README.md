@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Automating+Cloud+Infrastructure;Architecting+CI%2FCD+Pipelines;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps;Automating+Cloud+Infrastructure;Architecting+CI%2FCD+Pipelines;Open+Source+Contributor" alt="Typing SVG" />
 
 <br><br>
 

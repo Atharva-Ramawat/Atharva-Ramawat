@@ -30,7 +30,7 @@ It reflects an active focus on enterprise automation, configuration management, 
 
 ---
 
-# ABOUT ME
+# ABOUT 
 
 Hi, I'm **Atharva Ramawat**, a third-year B.Tech Computer Science student at Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur.
 

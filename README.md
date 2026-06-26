@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Atharva-Ramawat&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
+
 
 </div>
 

@@ -26,7 +26,6 @@ Recently contributed documentation improvements to the enterprise Ansible ecosys
 
 > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
 
-It reflects an active focus on enterprise automation, configuration management, and open-source infrastructure tools.
 
 ---
 

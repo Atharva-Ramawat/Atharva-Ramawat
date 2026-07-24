@@ -50,7 +50,7 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 # TECH STACK
 
 ### Languages & Scripting
-<img src="https://skillicons.dev/icons?i=java,python,javascript,bash,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,bash" />
 
 ### Cloud & Container Orchestration
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux" />

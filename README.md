@@ -8,23 +8,31 @@
 
 <br><br>
 
-[![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible/ansible-runner/pull/1523)
+[![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql/pull/933)
+[![Ansible Runner Contributor](https://img.shields.io/badge/Ansible_Runner-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible/ansible-runner/pull/1523)
 
 <br><br>
+
+
 
 </div>
 
 ---
 
-# OPEN SOURCE CONTRIBUTIONS
+# OPEN SOURCE CONTRIBUTION:
 
 ### Red Hat Ansible (Ansible Runner)
-Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between `bwrap` process isolation paths and container volume mounts for Docker/Podman engines.
-> **Pull Request:** [ansible/ansible-runner#1523](https://github.com/ansible/ansible-runner/pull/1523) *(Merged & Backported to v2.4)*
 
-### Red Hat Ansible (community.postgresql)
-Contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
-> **Pull Request:** [ansible-collections/community.postgresql#933](https://github.com/ansible-collections/community.postgresql/pull/933) *(Merged)*
+Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between process isolation paths and container volume mounts for Docker/Podman engines.
+
+> **Pull Request:** [View merged changes on GitHub](https://github.com/ansible/ansible-runner/pull/1523)
+
+### Red Hat Ansible Contribution
+
+Recently contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
+
+> **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
+
 
 ---
 
@@ -90,6 +98,11 @@ A scalable, microservices-based AI Sentiment Analysis application featuring a co
 A containerized Two-Tier Web Application (Flask + MySQL) demonstrating integration best practices and release safety.
 * **Automation:** Engineered a GitHub Actions CI pipeline with integrated Trivy vulnerability scanning and SonarQube code analysis.
 * **Delivery:** Enforced deployment quality gates to ensure secure code reliability before production merges.
+
+### Python Code Optimizer (VS Code Extension)
+An intelligent IDE extension published directly to the marketplace that refactors and optimizes Python code using a cloud-hosted AI Model.
+* **Impact:** Over 91+ Downloads on the Visual Studio Code Marketplace.
+* **Tech:** Built with JavaScript, utilizing static code analysis and seamless IDE user configuration integration.
 
 ---
 

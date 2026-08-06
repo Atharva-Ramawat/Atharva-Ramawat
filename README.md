@@ -38,7 +38,7 @@ Recently contributed documentation improvements to the enterprise Ansible ecosys
 
 # ABOUT ME
 
-Hi, I'm **Atharva Ramawat**, a third-year B.Tech Computer Science student at Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur.
+Hi, I'm **Atharva Ramawat**, a final-year B.Tech Computer Science student at Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur.
 
 I specialize in building cloud-native systems, automating deployment pipelines, and managing highly available infrastructure. My approach to engineering is straightforward:
 

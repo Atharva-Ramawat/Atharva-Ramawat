@@ -22,6 +22,12 @@
 
 # OPEN SOURCE CONTRIBUTION:
 
+### Red Hat Ansible (community.postgresql)
+
+Contributed documentation updates to standardize semantic markup across core PostgreSQL modules (`postgresql_db`, `postgresql_user`, and `postgresql_query`) in accordance with official Ansible guidelines.
+
+> **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/941)
+
 ### Red Hat Ansible (Ansible Runner)
 
 Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between process isolation paths and container volume mounts for Docker/Podman engines.
@@ -30,7 +36,7 @@ Contributed core API and documentation improvements clarifying the execution env
 
 ### Red Hat Ansible Contribution
 
-Recently contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
+Contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
 
 > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
 

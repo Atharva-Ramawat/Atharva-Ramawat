@@ -10,6 +10,7 @@
 
 [![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql/pull/933)
 [![Ansible Runner Contributor](https://img.shields.io/badge/Ansible_Runner-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible/ansible-runner/pull/1523)
+[![Ansible PostgreSQL](https://img.shields.io/badge/Ansible_PostgreSQL-Contributor-red?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible-collections/community.postgresql/pull/941)
 
 <br><br>
 

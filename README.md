@@ -22,6 +22,12 @@
 
 # OPEN SOURCE CONTRIBUTION:
 
+### PipeCD
+
+Fixed a CI linting regression by updating the `Makefile` to fail-fast on Go module errors, restoring local linting reliability and resolving Issue #4566.
+
+> **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7485)
+
 ### Red Hat Ansible (community.postgresql)
 
 Contributed documentation updates to standardize semantic markup across core PostgreSQL modules (`postgresql_db`, `postgresql_user`, and `postgresql_query`) in accordance with official Ansible guidelines.
@@ -52,10 +58,10 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 > **Build resilient systems. Automate the deployments. Scale the infrastructure.**
 
 ### Current Technical Focus
-* **Cloud Infrastructure Architectures:** AWS (EC2, EKS)
-* **Continuous Integration & Deployment:** CI/CD pipelines, DevSecOps
-* **Container Orchestration:** Docker, Kubernetes
-* **GitOps & Infrastructure as Code:** Terraform, ArgoCD
+- **Cloud Infrastructure Architectures:** AWS (EC2, EKS)
+- **Continuous Integration & Deployment:** CI/CD pipelines, DevSecOps
+- **Container Orchestration:** Docker, Kubernetes
+- **GitOps & Infrastructure as Code:** Terraform, ArgoCD
 
 ---
 
@@ -93,33 +99,33 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 
 ### Enterprise Document Intelligence Pipeline
 An event-driven document intelligence system built for high-performance scale and asynchronous processing.
-* **Architecture:** High-throughput FastAPI gateway routing to a Redis/Celery task queue.
-* **Infrastructure:** Fully containerized microservices architecture utilizing PostgreSQL storage.
+- **Architecture:** High-throughput FastAPI gateway routing to a Redis/Celery task queue.
+- **Infrastructure:** Fully containerized microservices architecture utilizing PostgreSQL storage.
 
 ### Kubernetes GitOps & Microservices Deployment
 A scalable, microservices-based AI Sentiment Analysis application featuring a complete end-to-end GitOps deployment cycle.
-* **Pipeline:** Automated CI/CD workflows orchestrated via Jenkins and ArgoCD.
-* **Deployment:** Containerized via Docker and deployed to a Kubernetes cluster hosted on AWS EC2 instances.
+- **Pipeline:** Automated CI/CD workflows orchestrated via Jenkins and ArgoCD.
+- **Deployment:** Containerized via Docker and deployed to a Kubernetes cluster hosted on AWS EC2 instances.
 
 ### Automated CI/CD Quality Gate
 A containerized Two-Tier Web Application (Flask + MySQL) demonstrating integration best practices and release safety.
-* **Automation:** Engineered a GitHub Actions CI pipeline with integrated Trivy vulnerability scanning and SonarQube code analysis.
-* **Delivery:** Enforced deployment quality gates to ensure secure code reliability before production merges.
+- **Automation:** Engineered a GitHub Actions CI pipeline with integrated Trivy vulnerability scanning and SonarQube code analysis.
+- **Delivery:** Enforced deployment quality gates to ensure secure code reliability before production merges.
 
 ### Python Code Optimizer (VS Code Extension)
 An intelligent IDE extension published directly to the marketplace that refactors and optimizes Python code using a cloud-hosted AI Model.
-* **Impact:** Over 91+ Downloads on the Visual Studio Code Marketplace.
-* **Tech:** Built with JavaScript, utilizing static code analysis and seamless IDE user configuration integration.
+- **Impact:** Over 91+ Downloads on the Visual Studio Code Marketplace.
+- **Tech:** Built with JavaScript, utilizing static code analysis and seamless IDE user configuration integration.
 
 ---
 
 # CURRENT LEARNING MATRIX
 
 ### Advanced Systems
-* Distributed Systems Architecture
-* High Availability & Fault Tolerance Design
-* Multi-Region Cloud Deployments
-* Advanced Kubernetes Networking
+- Distributed Systems Architecture
+- High Availability & Fault Tolerance Design
+- Multi-Region Cloud Deployments
+- Advanced Kubernetes Networking
 
 ---
 

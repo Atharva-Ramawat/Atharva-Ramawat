@@ -30,7 +30,7 @@
 
 2. Enhanced `pipedv1` quickstart documentation and improved the plugin registry error handling to explicitly clarify configuration requirements (`spec.plugins` or `spec.pipeline`), resolving deployment failures associated with legacy `v0/` example applications.
 
-  > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7509)
+   > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7509)
 
 ### Red Hat Ansible (community.postgresql)
 

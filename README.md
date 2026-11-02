@@ -28,6 +28,10 @@ Fixed a CI linting regression by updating the `Makefile` to fail-fast on Go modu
 
 > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7485)
 
+Enhanced `pipedv1` quickstart documentation and improved the plugin registry error handling to explicitly clarify configuration requirements (`spec.plugins` or `spec.pipeline`), resolving deployment failures associated with legacy `v0/` example applications.
+
+> **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7509)
+
 ### Red Hat Ansible (community.postgresql)
 
 Contributed documentation updates to standardize semantic markup across core PostgreSQL modules (`postgresql_db`, `postgresql_user`, and `postgresql_query`) in accordance with official Ansible guidelines.

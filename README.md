@@ -44,7 +44,7 @@
 
 ### Red Hat Ansible (Ansible Runner)
 
-Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between process isolation paths and container volume mounts for Docker/Podman engines.
+1. Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between process isolation paths and container volume mounts for Docker/Podman engines.
 
    > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible/ansible-runner/pull/1523)
 

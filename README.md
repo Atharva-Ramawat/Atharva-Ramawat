@@ -26,27 +26,27 @@
 
 1. Fixed a CI linting regression by updating the `Makefile` to fail-fast on Go module errors, restoring local linting reliability and resolving Issue #4566.
 
-  > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7485)
+   > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7485)
 
 2. Enhanced `pipedv1` quickstart documentation and improved the plugin registry error handling to explicitly clarify configuration requirements (`spec.plugins` or `spec.pipeline`), resolving deployment failures associated with legacy `v0/` example applications.
 
-  > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7509)
+   > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7509)
 
 ### Red Hat Ansible (community.postgresql)
 
 1. Contributed documentation updates to standardize semantic markup across core PostgreSQL modules (`postgresql_db`, `postgresql_user`, and `postgresql_query`) in    accordance with official Ansible guidelines.
 
- > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/941)
+  > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/941)
 
 2. Contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
 
- > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
+  > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
 
 ### Red Hat Ansible (Ansible Runner)
 
 Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between process isolation paths and container volume mounts for Docker/Podman engines.
 
-> **Pull Request:** [View merged changes on GitHub](https://github.com/ansible/ansible-runner/pull/1523)
+ > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible/ansible-runner/pull/1523)
 
 
 ---

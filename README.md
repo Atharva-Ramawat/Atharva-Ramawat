@@ -12,7 +12,7 @@
 
 ---
 
-# OPEN SOURCE CONTRIBUTION:
+# Open Source Contributions:
 
 ### PipeCD
 

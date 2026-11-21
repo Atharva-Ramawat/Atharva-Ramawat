@@ -24,29 +24,18 @@
 
 ### PipeCD
 
-1. Fixed a CI linting regression by updating the `Makefile` to fail-fast on Go module errors, restoring local linting reliability and resolving Issue #4566.
-
-   > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7485)
-
-2. Enhanced `pipedv1` quickstart documentation and improved the plugin registry error handling to explicitly clarify configuration requirements (`spec.plugins` or `spec.pipeline`), resolving deployment failures associated with legacy `v0/` example applications.
-
-   > **Pull Request:** [View merged changes on GitHub](https://github.com/pipe-cd/pipecd/pull/7509)
+1. Deduplicated Terraform variable keys in `mergeVars` while preserving `deployTargetVars` precedence and added unit tests — [PR #7658](https://github.com/pipe-cd/pipecd/pull/7658)
+2. Fixed CI linting regression in `Makefile` to fail-fast on Go module errors (Issue #4566) — [PR #7485](https://github.com/pipe-cd/pipecd/pull/7485)
+3. Enhanced `pipedv1` quickstart docs and plugin registry error handling for `spec.plugins`/`spec.pipeline` — [PR #7509](https://github.com/pipe-cd/pipecd/pull/7509)
 
 ### Red Hat Ansible (community.postgresql)
 
-1. Contributed documentation updates to standardize semantic markup across core PostgreSQL modules (`postgresql_db`, `postgresql_user`, and `postgresql_query`) in    accordance with official Ansible guidelines.
-
-   > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/941)
-
-2. Contributed documentation improvements to the enterprise Ansible ecosystem through the **community.postgresql** collection.
-
-   > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible-collections/community.postgresql/pull/933)
+1. Standardized semantic markup across core PostgreSQL modules (`postgresql_db`, `postgresql_user`, `postgresql_query`) — [PR #941](https://github.com/ansible-collections/community.postgresql/pull/941)
+2. Contributed documentation improvements to the **community.postgresql** collection — [PR #933](https://github.com/ansible-collections/community.postgresql/pull/933)
 
 ### Red Hat Ansible (Ansible Runner)
 
-1. Contributed core API and documentation improvements clarifying the execution environment context, specifically distinguishing between process isolation paths and container volume mounts for Docker/Podman engines.
-
-   > **Pull Request:** [View merged changes on GitHub](https://github.com/ansible/ansible-runner/pull/1523)
+1. Clarified execution environment context between process isolation paths and Docker/Podman volume mounts — [PR #1523](https://github.com/ansible/ansible-runner/pull/1523)
 
 
 ---

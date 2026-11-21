@@ -8,6 +8,11 @@
 
 <br><br>
 
+[![PipeCD Contributor](https://img.shields.io/badge/CNCF_PipeCD-Contributor-2E5BFF?style=for-the-badge&logo=cncf&logoColor=white)](https://github.com/pipe-cd/pipecd/pulls?q=is%3Apr+author%3AAtharva-Ramawat+is%3Amerged)
+[![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/search?q=org%3Aansible+org%3Aansible-collections+author%3AAtharva-Ramawat+is%3Apr+is%3Amerged&type=pullrequests)
+
+<br><br>
+
 </div>
 
 ---
@@ -53,7 +58,7 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 # TECH STACK
 
 ### Languages & Scripting
-<img src="https://skillicons.dev/icons?i=java,python,javascript,bash" />
+<img src="https://skillicons.dev/icons?i=go,python,java,ts,javascript,bash" />
 
 ### Cloud & Container Orchestration
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux" />
@@ -61,6 +66,7 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/PipeCD-2E5BFF?style=for-the-badge&logo=cncf&logoColor=white" />
 
 ### CI/CD, Security & Observability
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,grafana,prometheus" />
@@ -69,7 +75,7 @@ I specialize in building cloud-native systems, automating deployment pipelines, 
 <img src="https://img.shields.io/badge/Trivy-1B1B1B?style=for-the-badge&logo=aquasecurity&logoColor=20B0BD" />
 
 ### Frameworks & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,flask,react,postgres,mysql,mongodb,redis" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,nginx" />

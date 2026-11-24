@@ -11,6 +11,10 @@
 [![PipeCD Contributor](https://img.shields.io/badge/CNCF_PipeCD-Contributor-2E5BFF?style=for-the-badge&logo=cncf&logoColor=white)](https://github.com/pipe-cd/pipecd/pulls?q=is%3Apr+author%3AAtharva-Ramawat+is%3Amerged)
 [![Ansible Contributor](https://img.shields.io/badge/Ansible-Contributor-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/search?q=org%3Aansible+org%3Aansible-collections+author%3AAtharva-Ramawat+is%3Apr+is%3Amerged&type=pullrequests)
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Atharva-Ramawat&label=visitors&color=0e75b6&style=flat" alt="visitors" />
+
 <br><br>
 
 </div>

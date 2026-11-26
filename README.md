@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Atharva-Ramawat&label=visitors&color=0e75b6&style=flat" alt="visitors" />
+
 
 <br><br>
 

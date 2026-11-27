@@ -38,6 +38,19 @@
 
 1. Clarified execution environment context between process isolation paths and Docker/Podman volume mounts — [PR #1523](https://github.com/ansible/ansible-runner/pull/1523)
 
+---
+
+<div align="center">
+
+# BADGES
+
+<a href="https://cloud.layer5.io/user/ffd27cdd-656e-4352-8e1a-a7d8a8a3a117?tab=badges&badge=first-design" alt="First Design">
+  <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
+</a>
+<br />
+<sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
+
+</div>
 
 ---
 
